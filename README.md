@@ -26,10 +26,8 @@ O diferencial deste projeto é a responsabilidade na resposta. Se o usuário for
 * **Lógica:** Processamento de Texto Simulado (Mock) para validação de conceitos.
 
 ---
-
-Abra o terminal na pasta do projeto e instale o Streamlit:
-
 ```bash
 
 pip install streamlit
+
 
