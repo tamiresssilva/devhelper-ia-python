@@ -27,13 +27,9 @@ O diferencial deste projeto é a responsabilidade na resposta. Se o usuário for
 
 ---
 
-## Como Executar o Projeto
-
-Pré-requisitos: Você precisa ter o [Python](https://www.python.org/) instalado.
-
-### 1. Instalação das dependências
 Abra o terminal na pasta do projeto e instale o Streamlit:
 
 ```bash
 
 pip install streamlit
+
